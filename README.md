@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is PRASHANT KUMAR and I'm a SOFTWARE DEVELOPER, from BIHAR</h1>
+<h1 align="center">Hi 👋! My name is PRASHANT YADAV and I'm a SOFTWARE DEVELOPER, from BIHAR</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant6202&label=Profile%20views&color=0e75b6&style=flat" alt="prashant6202" /> </p>
