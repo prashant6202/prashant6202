@@ -5,7 +5,7 @@
 <p align="center" ><img width="50%" height="50%" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"/></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant6202" alt="prashant6202" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/prashant-yaduvanshi-0468162a7/" target="blank"><img src="https://img.shields.io/twitter/follow/hunterboylovely?logo=linkedin&style=for-the-badge" alt="Prashant yadav" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/prashant-yaduvanshi-0468162a7/" target="blank"><img src="https://img.shields.io/twitter/follow/prashant yadav?logo=linkedin&style=for-the-badge" alt="Prashant yadav" /></a> </p>
 
 - 🔭 I’m currently working on **Major Project**
 
