@@ -37,6 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant6202&show_icons=true&locale=en" alt="prashant6202" /></p>
 
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=white&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
