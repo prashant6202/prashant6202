@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is PRASHANT YADAV and I'm a SOFTWARE DEVELOPER, from BIHAR</h1>
+ <h1 align="center">Hi 👋! My name is PRASHANT YADAV and I'm a SOFTWARE DEVELOPER, from BIHAR</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant6202&label=Profile%20views&color=0e75b6&style=flat" alt="prashant6202" /> </p>
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/f1d9c87ab09617a9c5ec68470fbd71750beb8f8ebcca4f51da42d60b658dbc40/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d6126636f6c756d6e3d382672616e6b3d5353532c53532c532c4141412c41412c412c422c43" alt="prashant6202" /></a> </p>
 
-<p><img src="https://profile-readme-generator.com/assets/snake.svg"/></p>
+<p><img src="https://profile-readme-generator.com/assets/snake.svg"/>   <img src="https://avatars.githubusercontent.com/u/122152040?s=400&u=1ce06ba4223142175c070dc32787993c11e5448a&v=4"/></p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/prashant-yaduvanshi-0468162a7/" target="blank"><img src="https://img.shields.io/twitter/follow/prashant yadav?logo=linkedin&style=for-the-badge" alt="Prashant yadav" /></a> </p>
 
