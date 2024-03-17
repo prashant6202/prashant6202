@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant6202&label=Profile%20views&color=0e75b6&style=flat" alt="prashant6202" /> </p>
 <p align="left" > <img   src="https://avatars.githubusercontent.com/u/122152040?s=400&u=1ce06ba4223142175c070dc32787993c11e5448a&v=4"/>   <img width="50%" height="50%" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"/></p>
+
+<div class='d-flex'><img src="<img src="https://github.com/prashant6202/HTML-CSS/blob/main/Prashant%20Resume.png"/>"/><img src="<img src="https://github.com/prashant6202/HTML-CSS/blob/main/Prashant%20Resume.png"/>"/></div>
+
 <p><img src="https://github.com/prashant6202/HTML-CSS/blob/main/Prashant%20Resume.png"/></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">  <img src="https://camo.githubusercontent.com/f1d9c87ab09617a9c5ec68470fbd71750beb8f8ebcca4f51da42d60b658dbc40/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d6126636f6c756d6e3d382672616e6b3d5353532c53532c532c4141412c41412c412c422c43" alt="prashant6202" /></a>  </p>
