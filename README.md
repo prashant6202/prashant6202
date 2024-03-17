@@ -36,6 +36,7 @@
  <a href="https://linkedin.com/in/prashant-yaduvanshi-0468162a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant-yaduvanshi-0468162a7/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23488386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23488386" height="30" width="40" /></a>
 <a href="https://fb.com/prashant.yaduvanshi.33865" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prashant.yaduvanshi.33865" height="30" width="40" /></a>
+ <a href="https://twitter.com/hunterboylovely" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hunterboylovely" height="30" width="40" /></a>
 <a href="https://instagram.com/its_prashant_yadav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_prashant_yadav_" height="30" width="40" /></a>
 </p>
 
