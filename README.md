@@ -14,6 +14,7 @@
  <img width="20%" height="153px" src="https://github.com/prashant6202/HTML-CSS/blob/main/certificate/Front%20End.png"/>  <img width="20%"  height="153px" src="https://github.com/prashant6202/HTML-CSS/blob/main/certificate/Core%20Java.png"/>  <img width="20%"  height="153px" src="https://github.com/prashant6202/HTML-CSS/blob/main/certificate/yumXpress%20certificate.png"/>  <img width="20%"  height="153px" src="https://github.com/prashant6202/HTML-CSS/blob/main/certificate/Advance%20Java.png"/>  <img width="18%"  height="153px" src="https://github.com/prashant6202/HTML-CSS/blob/main/certificate/React%20JS.png"/>
 
  <img width="18%"  height="153px" src="https://github.com/prashant6202/HTML-CSS/blob/main/certificate/EZEE-BIITZ-APP%20-%20ReactJS%20Project.jpg"/>
+ <img width="18%"  height="153px" src="https://github.com/prashant6202/HTML-CSS/blob/main/certificate/FILM%20FUSSION%20(JAVASCRIPT%20PROJCT).jpg"/>
  
  </div>
 
