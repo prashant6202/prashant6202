@@ -12,6 +12,9 @@
  <p align="left"> <a href="https://www.linkedin.com/in/prashant-yaduvanshi-0468162a7/details/certifications/" target="blank"><img src="https://img.shields.io/twitter/follow/Certificate?logo=Certificate&style=for-the-badge" alt="Certificate" /></a> </p>
 
  <img width="20%" height="153px" src="https://github.com/prashant6202/HTML-CSS/blob/main/certificate/Front%20End.png"/>  <img width="20%"  height="153px" src="https://github.com/prashant6202/HTML-CSS/blob/main/certificate/Core%20Java.png"/>  <img width="20%"  height="153px" src="https://github.com/prashant6202/HTML-CSS/blob/main/certificate/yumXpress%20certificate.png"/>  <img width="20%"  height="153px" src="https://github.com/prashant6202/HTML-CSS/blob/main/certificate/Advance%20Java.png"/>  <img width="18%"  height="153px" src="https://github.com/prashant6202/HTML-CSS/blob/main/certificate/React%20JS.png"/>
+
+ <img width="18%"  height="153px" src="https://github.com/prashant6202/HTML-CSS/blob/main/certificate/EZEE-BIITZ-APP%20-%20ReactJS%20Project.jpg"/>
+ 
  </div>
 
 <p><img src="https://github.com/prashant6202/HTML-CSS/blob/main/Prashant-resume.jpg"/></p>
