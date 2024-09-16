@@ -20,7 +20,7 @@
 
 <p><img src="https://github.com/prashant6202/HTML-CSS/blob/main/My%20Resume.jpg"/></p>
 
-<p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)">  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" alt="prashant6202" /></a>  </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical" alt="prashant6202" /></a>  </p>
 
 <p><img src="https://profile-readme-generator.com/assets/snake.svg"/> </p>
 
