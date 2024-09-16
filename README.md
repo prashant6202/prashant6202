@@ -3,8 +3,7 @@
  <h1 align="center">Hi 👋! My name is PRASHANT YADAV and I'm a SOFTWARE DEVELOPER, from BIHAR</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)" alt="prashant6202" /> </p>
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+<p align="left"> <img src="https://camo.githubusercontent.com/981ddcab98b6ebf40851fc2e21003b17bc4d817521239ba4afe13ece9e9ec823/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7072617368616e7436323032266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="prashant6202" /> </p>
 
 <p align="center" > <img width="45%" height="448px"  src="https://github.com/prashant6202/HTML-CSS/blob/main/prashant%20.jpg"/>   <img width="45%" height="448px" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"/></p>
 
