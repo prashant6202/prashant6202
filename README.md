@@ -17,7 +17,7 @@
  
  </div>
 
-<p><img src="https://github.com/prashant6202/HTML-CSS/blob/main/My%20Resume.jpg"/></p>
+<p><img src="https://github.com/prashant6202/HTML-CSS/blob/main/Prashant%20Resume.jpg"/></p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix">  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" alt="prashant6202" /></a>  </p>
 
